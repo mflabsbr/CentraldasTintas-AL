@@ -331,7 +331,7 @@ export default function PriceConsultationApp() {
         {/* Footer fixo */}
         <footer className="fixed bottom-0 left-0 right-0 bg-black/30 backdrop-blur-sm border-t border-white/20 p-2">
           <div className="text-center">
-            <p className="text-white/80 text-xs font-medium">© 2025 MF Labs</p>
+            <p className="text-white/80 text-xs font-medium">© 2025 M/F Labs</p>
             <p className="text-white/60 text-xs mt-1">{companyData || "Carregando empresa..."}</p>
           </div>
         </footer>
@@ -429,7 +429,7 @@ export default function PriceConsultationApp() {
         {/* Footer fixo */}
         <footer className="fixed bottom-0 left-0 right-0 bg-black/30 backdrop-blur-sm border-t border-white/20 p-2">
           <div className="text-center">
-            <p className="text-white/80 text-xs font-medium">© 2025 MF Labs</p>
+            <p className="text-white/80 text-xs font-medium">© 2025 M/F Labs</p>
             <p className="text-white/60 text-xs mt-1">{companyData || "Carregando empresa..."}</p>
           </div>
         </footer>
